@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="/assets/image.png" width="100" height="100"><br>
-  <i>A convenient way to manage your electronics waste.</i>
+  <img src="https://ibb.co.com/3chNgh7" width="100" height="100"><br>
+  <i>A convenient way to manage your used cooking oil waste.</i>
 </div>
 
 <!-- ### THE PORTAL
@@ -15,12 +15,12 @@
 TechWas is a student-led organization dedicated to enhancing the management of e-waste disposals and increasing awareness of electronic waste. Our team of six members, divided into machine learning, cloud computing, and mobile development divisions, has developed an app to achieve our goal. -->
 
 ### The SPEECH OF THE YEAR
-In 2021, Indonesia generated an estimated 2 million tonnes of e-waste, which is the most in Southeast Asia. Our goal is to develop an app that can assist individuals in identifying and managing electronic waste effectively.  
+From the national estimation, used cooking oil from households and micro business units is around 1.2 million KL/year. This is not much different from the BPS calculation, 1.6 million KL/year.  
   
-  Purpose-driven :
-- Decrease e-waste's adverse effects and raise awareness  
-- Establish drop points and a forum marketplace for managing e-waste  
-- Empower users and promote environmental health
+  Purpose-driven:
+- Reducing the adverse impact of used cooking oil waste and raising awareness  
+- Building a digital platform to make it easier to manage used cooking oil waste  
+- Empowering users and promoting environmental health
 
 <div align="center">
   <h3>Our Team</h3>
