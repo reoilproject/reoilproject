@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://ibb.co.com/H7dsvBd/image.png" width="100" height="100"><br>
+  <img src="https://i.ibb.co/H7dsvBd/image.png" width="100" height="100"><br>
   <i>A convenient way to manage your used cooking oil waste.</i>
 </div>
 
