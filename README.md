@@ -104,6 +104,6 @@ From the national estimation, used cooking oil from households and micro busines
 
 ## Learning Path Documentation
 
-<a href="https://github.com/reoilproject/ReOil/tree/master"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/reoilproject/ReOil/tree/master"><img src="https://drive.google.com/file/d/1VnXljLYaa0eOeKHdo1o1H-JcTX3dTV4A/view?usp=share_link"></a>
 
 ## I Wanna Thanks to :
