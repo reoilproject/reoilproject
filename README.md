@@ -149,3 +149,11 @@ From the national estimation, used cooking oil from households and micro busines
 
 
 ## I Wanna Thanks to :
+I wanna thank me for believing in me
+I wanna thank me for doing all this hard work
+I wanna thank me for having no days off
+I wanna thank me for, for never quitting
+I wanna thank me for always being a giver
+And tryna give more than I recieve
+I wanna thank me for tryna do more right than wrong
+I wanna thank me for just being me at all times
